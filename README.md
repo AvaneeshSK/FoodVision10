@@ -3,4 +3,6 @@
 
 kaggle : https://www.kaggle.com/datasets/dansbecker/food-101  
 
-model used : custom CNN  
+model used : custom CNN   
+
+Evaluation : confusion matrix
